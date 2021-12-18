@@ -1,2 +1,2 @@
 # kolko
-des dription
+des cription
