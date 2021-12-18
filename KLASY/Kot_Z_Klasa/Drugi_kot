@@ -1,0 +1,12 @@
+#%%
+
+import plik
+from plik.py import pies
+x = pies()
+
+Konwencja nazewnicza atrybutów:
+_wiek_ jedno podkreslenie to oznacza że jest protected
+__licznik__ podwójne podkreślenia i oznacza private i jej nie służy do wewnetrznych, pomocniczych funkcjach danych
+
+
+
