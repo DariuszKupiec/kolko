@@ -1,0 +1,3 @@
+#%%
+
+# tworę grę kółko-krzyżyk
